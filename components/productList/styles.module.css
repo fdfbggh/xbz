@@ -1,0 +1,9 @@
+#container {
+    box-sizing: border-box;
+    border: 2px solid rgba(255, 255, 255, 0);
+}
+
+#container:hover {
+    border: 2px solid #023867;
+    box-sizing: border-box;
+}
